@@ -20,8 +20,11 @@ Il codice di Playwright e dell'interfaccia HTTPS **non si trova in questa reposi
 
 Le regole, i prompt e la logica propri di Intraday o Swing appartengono ai rispettivi progetti. Automazione, acquisizione, interfacce, osservabilità e altre soluzioni infrastrutturali riutilizzabili sono candidate al livello comune, dove vengono documentate senza duplicare la logica delle strategie.
 
+La direzione di sviluppo comune — obiettivo economico, sostenibilità personale, ruolo distinto di Swing e Intraday e criterio di riduzione del carico umano — è definita in `TRADING_NORTH_STAR.md`. Questo documento governa le priorità di sviluppo e non sostituisce le regole operative delle singole strategie.
+
 ## Indice
 
+- [Trading North Star](TRADING_NORTH_STAR.md)
 - [Architettura dell'ecosistema](ARCHITECTURE.md)
 - [Know-how dell'automazione](AUTOMATION.md)
 - [Interfaccia HTTPS locale](INTERFACE.md)
